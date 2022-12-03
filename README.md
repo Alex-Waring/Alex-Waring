@@ -1,6 +1,8 @@
-I'm Alex, a young infrastructure guy learning about the power of scripts. This repository is mainly a collection of tools for me to adapt and use in future projects.
+I'm Alex, these are my scripts.
 
-If you spot any errors, or places I can adapt the script to work better please let me know!
+They're not very good.
+
+Sorry.
 
 <!---
 Alex-Waring/Alex-Waring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
