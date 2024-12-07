@@ -1,7 +1,5 @@
 I'm an infrastructure engineer who writes terraform, python and golang. When I'm cornered I can be made to write YAML manifests as well.
 
-### Notable Work
-
 #### [Advent of Code](https://github.com/Alex-Waring/AoC)
 Solutions to AoC, mostly written in golang. I have improved a lot over the years and have gone from struggling through the mid stages
 to now being competitive in company leaderboards. As well as a cool way to learn, it scratches the itch in my brain that I lost since
